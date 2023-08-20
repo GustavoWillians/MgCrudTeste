@@ -1,0 +1,52 @@
+
+html {
+  font-size: 14px;
+  
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+  
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+
+.display-4{
+    font-size:1cm;
+    background: rgb(243, 202, 165);
+    border-radius: 2cm;
+}
+
+.corpo_texto{
+  background: rgb(240, 214, 192);
+  border-radius: 2cm;
+}
+
+.corpo_informacoes{
+  text-decoration: none;
+}
+
+.nome_crud{
+    color:rgb(255, 0, 0) ;
+
+}
+
+.cpf_crud{
+  color: rgb(255, 0, 0);
+}
+
+.telefone_crud{
+  color: rgb(255, 0, 0);
+}
+
